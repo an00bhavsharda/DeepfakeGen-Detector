@@ -6,5 +6,5 @@ Deepfakes, generated through sophisticated deep learning techniques, manipulate 
 3.	Optimize the model for better accuracy and robustness.
 4.	Develop a user-friendly interface for real-time deepfake video detection.
 
-   ![image](https://github.com/user-attachments/assets/3f7d638a-df02-4d99-b6a2-a165f0ee712e)
+  	![image](https://github.com/user-attachments/assets/f1832158-dea6-4d49-9136-1366562a328b)
 
